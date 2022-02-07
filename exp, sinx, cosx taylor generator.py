@@ -1,4 +1,3 @@
-# Code for Algorithm
 # To write functions that generate Taylor's Series for e^x, sin(x) and cos(x)
 
 import math as m
